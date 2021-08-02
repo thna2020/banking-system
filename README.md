@@ -1,4 +1,4 @@
-# Python Banking System using object-oriented programming (OOP)
+# Python Banking System using OOP
 
-- Parent class: User (hold and display user details)
-- Child class: Bank (stores details on account balance, amount; allow for deposit, withdraw, and view balance)
+- Parent class: User (hold and display user info)
+- Child class: Bank (stores info on account balance, amount; allow for deposit, withdraw, and view balance)
