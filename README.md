@@ -11,3 +11,4 @@
 - User can deposit and withdraw money (update file)
 - User can view balance
 - User can view and edit personal information
+![Successfully Create Account](demo_v1/create_acc.jpeg)
