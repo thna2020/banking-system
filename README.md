@@ -12,7 +12,10 @@
 ![Successfully create account](demo_v1/create_acc.png)
 ![Try to create an account when it already existed](demo_v1/acc_existed.png)
 
-- User can log in
+- User can log in and view personal information
+
+![Log in and view personal information](demo_v1/personal_info.png)
+
 - User can deposit and withdraw money (update file)
 - User can view balance
-- User can view and edit personal information
+- User can edit personal information
