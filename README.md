@@ -1,12 +1,12 @@
 # Python Banking System
 
-### Version 0 - Basics with OOP
+### Version 0 - Basics with OOP (app_v0.py)
 - Parent class: User (store and display user info)
 - Child class: Bank (store info on account balance, amount; allow for deposit, withdraw, and view balance)
 
 ![v0](v0.png)
 
-### Version 1 - GUI with Tkinter
+### Version 1 - GUI with Tkinter (app_v1.py)
 - User can register account
 
 ![Successfully create account](demo_v1/create_acc.png)
