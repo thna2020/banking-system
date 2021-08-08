@@ -22,6 +22,6 @@
 
 - User can deposit and withdraw money
 
-![Deposit](demo_v1/desposit.png)
+![Deposit](demo_v1/deposit.png)
 
 ![Withdraw](demo_v1/withdraw.png)
