@@ -7,9 +7,10 @@
 
 ### Version 1 - GUI with Tkinter
 - User can register account
+![Successfully create account](demo_v1/create_acc.png)
+![Try to create an account when it already existed](demo_v1/acc_existed.png)
+
 - User can log in
 - User can deposit and withdraw money (update file)
 - User can view balance
 - User can view and edit personal information
-![Successfully create account](demo_v1/create_acc.png)
-![Try to create an account when it already existed](demo_v1/acc_existed.png)
