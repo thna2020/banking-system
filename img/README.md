@@ -1,1 +1,1 @@
-Images included in all versions
+Images used in all versions
