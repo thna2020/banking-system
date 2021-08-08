@@ -21,3 +21,7 @@
 ![View personal information and balance after log-in](demo_v1/view_info.png)
 
 - User can deposit and withdraw money
+
+![Deposit](demo_v1/desposit.png)
+
+![Withdraw](demo_v1/withdraw.png)
